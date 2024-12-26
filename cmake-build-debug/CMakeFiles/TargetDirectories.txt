@@ -1,0 +1,7 @@
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/DoodleJump.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/install.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/caitlino/Desktop/school/AP/2024-project-Caitlin-to/cmake-build-debug/CMakeFiles/install/strip.dir
